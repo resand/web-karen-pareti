@@ -1,0 +1,22 @@
+{
+  "name": "Pagina Web Kare Pareti",
+  "version": "1.0.0",
+  "description": "Pagina web con compras",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "resand"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}

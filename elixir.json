@@ -1,0 +1,10 @@
+{
+  "production": true,
+  "sourcemaps": false,
+  "css": {
+    "outputFolder": "dist/css"
+  },
+  "js": {
+    "outputFolder": "dist/js"
+  }
+}
